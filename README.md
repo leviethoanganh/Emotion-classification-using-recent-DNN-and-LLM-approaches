@@ -7,8 +7,8 @@
 **Prerequisite:** Strong AI and development skills<br>
 **CLRI Type:** Corporate Lab<br>
 **Corporate Lab / Research Institute:** Alibaba-NTU JRI<br>
-**Start Date:** [dd Mon yyyy]<br>
-**End Date:** [dd Mon yyyy]
+**Start Date:** 1st August 2026
+**End Date:** 30th July 2027
 
 ## Overview
 
@@ -24,8 +24,8 @@ Playlist:
 
 ## Roadmap / Milestones
 
-- **Phase 1:** [Điền nội dung — ví dụ: Environment setup and baseline model integration]
-- **Phase 2:** [Điền nội dung — ví dụ: Data collection / preprocessing]
-- **Phase 3:** [Điền nội dung — ví dụ: Model training/fine-tuning]
-- **Phase 4:** [Điền nội dung — ví dụ: Evaluation and benchmarking]
-- **Phase 5:** [Điền nội dung — ví dụ: Final report and presentation]
+- **Phase 1:** [Environment setup and baseline model integration]
+- **Phase 2:** [Data collection / preprocessing]
+- **Phase 3:** [Model training/fine-tuning]
+- **Phase 4:** [Evaluation and benchmarking]
+- **Phase 5:** [Final report and presentation]

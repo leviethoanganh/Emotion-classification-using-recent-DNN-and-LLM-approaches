@@ -22,7 +22,7 @@ Playlist:
 
 [YouTube Playlist](https://studio.youtube.com/channel/UCfznYB-UN1EVLfSTDuXUX3A/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D)
 
-Report 1(https://www.youtube.com/watch?v=QiBCJLFsShI)
+[Report 1](https://www.youtube.com/watch?v=QiBCJLFsShI)
 
 
 ## Roadmap / Milestones

@@ -7,7 +7,7 @@
 **Prerequisite:** Strong AI and development skills<br>
 **CLRI Type:** Corporate Lab<br>
 **Corporate Lab / Research Institute:** Alibaba-NTU JRI<br>
-**Start Date:** 1st August 2026
+**Start Date:** 30st August 2026
 **End Date:** 30th July 2027
 
 ## Overview
